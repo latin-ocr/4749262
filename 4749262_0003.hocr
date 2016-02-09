@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4749262_0003.png"; bbox 0 0 3506 4480; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 552 465 2710 654">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 552 465 2710 654">
+     <span class='ocr_line' id='line_1_1' title="bbox 552 465 2710 654; baseline -0 -48"><span class='ocrx_word' id='word_1_1' title='bbox 552 467 1465 611; x_wconf 73' lang='lat' dir='ltr'><strong>AUTHOR:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1555 474 2096 654; x_wconf 80' lang='lat' dir='ltr'><strong>Unger,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2160 465 2710 607; x_wconf 79' lang='lat' dir='ltr'>Robert</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 551 1163 2969 1348">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 551 1163 2969 1348">
+     <span class='ocr_line' id='line_1_2' title="bbox 551 1163 2969 1348; baseline 0 -44"><span class='ocrx_word' id='word_1_4' title='bbox 551 1167 1151 1306; x_wconf 91' lang='lat' dir='ltr'>TITLE:</span> <span class='ocrx_word' id='word_1_5' title='bbox 1272 1166 1986 1310; x_wconf 78' lang='lat' dir='ltr'>Analecta</span> <span class='ocrx_word' id='word_1_6' title='bbox 2039 1163 2969 1348; x_wconf 78' lang='lat' dir='ltr'>Propertiana</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 1865 1764 2007">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 1865 1764 2007">
+     <span class='ocr_line' id='line_1_3' title="bbox 548 1865 1764 2007; baseline 0.002 -3"><span class='ocrx_word' id='word_1_7' title='bbox 548 1865 1228 2007; x_wconf 82' lang='lat' dir='ltr'>PLACE:</span> <span class='ocrx_word' id='word_1_8' title='bbox 1350 1865 1764 2007; x_wconf 82' lang='lat' dir='ltr'>Halis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 546 2564 1643 2708">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 546 2564 1643 2708">
+     <span class='ocr_line' id='line_1_4' title="bbox 546 2564 1643 2708; baseline 0.003 -3"><span class='ocrx_word' id='word_1_9' title='bbox 546 2565 1124 2707; x_wconf 83' lang='lat' dir='ltr'>DATE:</span> <span class='ocrx_word' id='word_1_10' title='bbox 1266 2564 1643 2708; x_wconf 82' lang='lat'>1850</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 3506 4480">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 3506 4480">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 3506 4480; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 3506 4480; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
